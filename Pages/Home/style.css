@@ -184,3 +184,22 @@ form .submit-button {
   font-size: medium;
   text-align: center;
 }
+
+.socialIcons a{
+  text-decoration: none;
+  padding: 10px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 50px;
+}
+
+.socialIcons a i{
+  font-size: 2em;
+  color: black;
+  opacity: 0.9;
+}
+
+/* Hover effects for Social Media Icons */
+.socialIcons a:hover{
+  background-color: ;
+}
